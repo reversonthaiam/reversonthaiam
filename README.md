@@ -19,7 +19,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 -  📍From Brazil living Goiânia
 -   📚 I'm studying English at Bealiever English School
--    🔎 I am looking for a **Junior developer job**
+-    🔎 I am looking for opportunities
 
 
 <p align = "center">
