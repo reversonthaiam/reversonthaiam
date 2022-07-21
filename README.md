@@ -3,8 +3,6 @@ Reach me out 👇🏼
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9fg9wdxhlwPRUVzHucPRAg/videos)](https://www.youtube.com/channel/UC9fg9wdxhlwPRUVzHucPRAg/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reverson-thaiam-8a08511b2/)](https://www.linkedin.com/in/reverson-thaiam-8a08511b2/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/reverson_thayan/)](https://www.instagram.com/reverson_thayan/) 
 
-Currently doing the last period of the Faculty of **Computer Science** at PUC 👨🏻‍💻👨🏻‍🎓, where I joined in 2015.
-
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 <h2>I have skills in:</h2>
