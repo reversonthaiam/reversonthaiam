@@ -17,9 +17,17 @@ I'm passionate about solving problems and learning. Always open to new challenge
  🌍  "Sou um eterno aprendiz"  🧠
 </h3>
 
--  📍From Brazil living Goiânia
--   📚 I'm studying English at Bealiever English School
--    🔎 I am looking for opportunities
+🎓 Graduado em Ciência da computação PUC, 2015 a 2021, programo desde 2015 com a linguagem C++
+
+👨‍💻 Trabalho como desenvolvedor Frontend desde 2020, tenho me dedicado bastante a me tornar especialista na área.
+
+🇺🇸 Inglês nível B2 de acordo com o QECR (Common European Framework of Reference – CEFR)
+
+⚙️ Linguagens: Javascript; Typescript, C++;
+ - Frameworks: React (utilizando Hooks e ContextAPI); Nextjs, React Native;
+ - Bibliotecas: AntDesign-ui; Styled Component; Formik; React Query; Redux.
+ - Skills: Conhecimento em padrão REST e GIT;
+ - Entrega ágil, usando Scrum e Kanban;
 
 
 <p align = "center">
