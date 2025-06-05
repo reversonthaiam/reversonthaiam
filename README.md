@@ -17,17 +17,18 @@ I'm passionate about solving problems and learning. Always open to new challenge
  🌍  "Sou um eterno aprendiz"  🧠
 </h3>
 
-🎓 Graduado em Ciência da computação PUC, 2015 a 2021, programo desde 2015 com a linguagem C++
+🎓 Graduated in Computer Science from PUC, 2015 to 2021, I have been programming with the C++ language since 2015.
 
-👨‍💻 Trabalho como desenvolvedor Frontend desde 2020, tenho me dedicado bastante a me tornar especialista na área.
+👨‍💻 I have been working as a Frontend developer since 2020 and have dedicated myself to becoming an expert in the field.
 
-🇺🇸 Inglês nível B2 de acordo com o QECR (Common European Framework of Reference – CEFR)
+🇺🇸 English level B2 according to the CEFR (Common European Framework of Reference).
 
-⚙️ Linguagens: Javascript; Typescript, C++;
- - Frameworks: React (utilizando Hooks e ContextAPI); Nextjs, React Native;
- - Bibliotecas: AntDesign-ui; Styled Component; Formik; React Query; Redux.
- - Skills: Conhecimento em padrão REST e GIT;
- - Entrega ágil, usando Scrum e Kanban;
+⚙️ Languages: Javascript, Typescript, C++, Ruby;
+- Frameworks: React, VueJs, React Native, Nextjs, Ruby on Rails, Stimulus JS;
+- Libraries: Tailwind, Styled Component, Formik, React Query, Redux.
+- Tools: Figma
+- Skills: Knowledge of REST and GIT standards;
+- Agile delivery, using Scrum and Kanban.
 
 
 <p align = "center">
